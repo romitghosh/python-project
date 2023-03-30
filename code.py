@@ -27,7 +27,7 @@ hkd_usd = 0.12  # usd
 sek_usd = 0.09  # usd
 zar_usd = 0.05  # usd
 rub_usd = 0.01  # usd
-inr_usd = 0.01  # usd
+inr_usd = 0.01  # usd.
 
 '''KWD CONVERSIONS'''
 usd_kwd = 0.30  # kwd
